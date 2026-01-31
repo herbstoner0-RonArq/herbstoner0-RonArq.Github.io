@@ -1,7 +1,7 @@
 # Ronie Arquio – Portfolio 11 BYTES
 ### ICT-CSS student | Content creator| Game developer
 
-Welcome to my portfolio! Below are some of the projects I’ve worked on, My GDEVELOP platformer game, I also post a gaming content in Youtube.
+Welcome to my portfolio! Below are some of the projects I have worked on, My GDEVELOP platformer game, I also post a gaming content in Youtube.
 
 ---
 
@@ -11,7 +11,7 @@ Welcome to my portfolio! Below are some of the projects I’ve worked on, My GDE
 I post short cozy guitar melodies. 
 
 
-🔗 **Here's the link on one of my videos ** https://www.youtube.com/shorts/OMLhg8fZlkc
+🔗 **Here's the link to one of my videos ** https://www.youtube.com/shorts/OMLhg8fZlkc
 📂 **Here my YTchannel:** https://www.youtube.com/@Arcx-n5i
 
 ---
@@ -21,7 +21,8 @@ I post short cozy guitar melodies.
 
 **Here's my game:**  
 My game is a platformer game, it's one of my few games i did(it was for our project lol). 
-The game is about a Cucumber named coco and he Jumps lol, collect coins and avoid the enemy,
+The game is about a Cucumber named coco and he Jumps lol.
+You collect coins and avoid the enemy,
 Thats pretty much it 
 
 🔗 **Check it out here!:** https://ronarcqx.itch.io/cocober 
