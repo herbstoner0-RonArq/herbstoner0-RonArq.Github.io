@@ -1,7 +1,7 @@
 # Ronie Arquio – Portfolio 11 BYTES
 ### ICT-CSS student | Content creator| Game developer
 
-Welcome to my portfolio! Below are some of the projects I have worked on, My GDEVELOP platformer game, I also post a gaming content in Youtube.
+Welcome to my portfolio! Below are some of the projects I have worked on, My GDEVELOP platformer game, I also post on Youtube.
 
 ---
 
