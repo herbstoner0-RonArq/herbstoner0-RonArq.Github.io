@@ -40,7 +40,7 @@ Thats pretty much it
 - Discord: 1220305407940231199 
 - Portfolio Website: https://herbstoner0-ronarq.github.io/
 - Gdevelop:
-- Itch:https://ronarcqx.itch.io/
+- Itch:https:// ronarcqx.itch.io/
 ---
 
 
