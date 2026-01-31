@@ -21,20 +21,20 @@ My first few videos were gaming content, i might also do vlogs and other content
 ##
  – My GDEVELOP game
 
-![image_alt](https://github.com/herbstoner0-RonArq/herbstoner0-RonArq.Github.io/blob/e1a5befa48e7ebacb4f28dc370c9feb6ed6fe913/oraora.png)
-
 **Here's my game:**  
 My game is a platformer game, it's one of my few games i did(it was for our project lol). 
 The game is about a Cucumber named coco and he Jumps lol, collect coins and avoid the enemy,
 Thats pretty much it 
+
+![image_alt](https://github.com/herbstoner0-RonArq/herbstoner0-RonArq.Github.io/blob/e1a5befa48e7ebacb4f28dc370c9feb6ed6fe913/oraora.png
+🔗 **Check it out here!:** https://ronarcqx.itch.io/cocober 
 
 **Features:**  
 - Platformer 
 - Dodge the enemy!
 - Collect all coins
 
-🔗 **Check it out here!:** https://ronarcqx.itch.io/cocober 
-📂 **I post my games onitch:** https://ronarcqx.itch.io/
+📂 **I post my games on itch:** https://ronarcqx.itch.io/
 
 
 ## 🌐 Connect With Me/ Feel free to give me feedback on my socials :>>
@@ -43,11 +43,8 @@ Thats pretty much it
 - Discord: 1220305407940231199 
 - Portfolio Website: https://herbstoner0-ronarq.github.io/
 - Gdevelop:
-- Itch:
+- Itch:https://ronarcqx.itch.io/
 ---
 
-### 🔥 Optional Badge Style Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourname)
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x)](https://twitter.com/yourhandle)
+
