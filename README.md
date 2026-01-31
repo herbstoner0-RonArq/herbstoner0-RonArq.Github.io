@@ -21,7 +21,7 @@ My first few videos were gaming content, i might also do vlogs and other content
 ##
  – My GDEVELOP game
 
-![Gdevelop](images/oraora.png)
+![image_alt](https://github.com/herbstoner0-RonArq/herbstoner0-RonArq.Github.io/blob/e1a5befa48e7ebacb4f28dc370c9feb6ed6fe913/oraora.png)
 
 **Here's my game:**  
 My game is a platformer game, it's one of my few games i did(it was for our project lol). 
