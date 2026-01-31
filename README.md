@@ -7,8 +7,6 @@ Welcome to my portfolio! Below are some of the projects I’ve worked on, My GDE
 
 ## My Youtube channel – VideoContent
 
-![Youtube](images/project1.png)
-
 **My first few videos:**  
 My first few videos were gaming content, i might also do vlogs and other contents!!
 
@@ -26,7 +24,6 @@ My game is a platformer game, it's one of my few games i did(it was for our proj
 The game is about a Cucumber named coco and he Jumps lol, collect coins and avoid the enemy,
 Thats pretty much it 
 
-![Gdevelop](https://github.com/herbstoner0-RonArq/herbstoner0-RonArq.Github.io/blob/e1a5befa48e7ebacb4f28dc370c9feb6ed6fe913/oraora.png
 🔗 **Check it out here!:** https://ronarcqx.itch.io/cocober 
 
 **Features:**  
