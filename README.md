@@ -39,8 +39,8 @@ Thats pretty much it
 - Facebook: https://www.facebook.com/Ronzziiie
 - Discord: 1220305407940231199 
 - Portfolio Website: https://herbstoner0-ronarq.github.io/
-- Gdevelop:
-- Itch:https:// ronarcqx.itch.io/
+- Gdevelop: https://gd.games/PAOOPAOO
+- Itch: https://ronarcqx.itch.io/
 ---
 
 
