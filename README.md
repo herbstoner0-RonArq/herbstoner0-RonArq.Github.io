@@ -21,7 +21,7 @@ My first few videos were gaming content, i might also do vlogs and other content
 ##
  – My GDEVELOP game
 
-![Project Two Screenshot](images/oraora.png)
+![Gdevelop](images/oraora.png)
 
 **Here's my game:**  
 My game is a platformer game, it's one of my few games i did(it was for our project lol). 
