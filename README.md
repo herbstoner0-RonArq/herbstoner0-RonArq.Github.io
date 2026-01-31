@@ -1,5 +1,5 @@
-# Ronie Arquio – Portfolio
-### Frontend Developer | Designer | Software Engineer
+# Ronie Arquio – Portfolio 11 BYTES
+### ICT-CSS student | Content creator| Game developer
 
 Welcome to my portfolio! Below are some of the projects I’ve worked on, My GDEVELOP platformer game, I also post a gaming content in Youtube.
 
@@ -21,8 +21,7 @@ My first few videos were gaming content, i might also do vlogs and other content
 ##
  – My GDEVELOP game
 
-![Project Two Screenshot](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/407cf06d-f073-45fd-8f25-f1f6652533b1" />
-)
+![Project Two Screenshot](images/oraora.png)
 
 **Here's my game:**  
 My game is a platformer game, it's one of my few games i did(it was for our project lol). 
