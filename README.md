@@ -21,7 +21,8 @@ My first few videos were gaming content, i might also do vlogs and other content
 ##
  – My GDEVELOP game
 
-![Project Two Screenshot](images/project2.png)
+![Project Two Screenshot](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/407cf06d-f073-45fd-8f25-f1f6652533b1" />
+)
 
 **Here's my game:**  
 My game is a platformer game, it's one of my few games i did(it was for our project lol). 
@@ -33,15 +34,15 @@ Thats pretty much it
 - Dodge the enemy!
 - Collect all coins
 
-🔗 **Check it out here!:** https://your-demo-link.com  
-📂 **I post my games on itch:** https://github.com/yourusername/project-two
+🔗 **Check it out here!:** https://ronarcqx.itch.io/cocober 
+📂 **I post my games onitch:** https://ronarcqx.itch.io/
 
 
 ## 🌐 Connect With Me/ Feel free to give me feedback on my socials :>>
 
-- Facebook: https://github.com/yourusername  
-- Discord: https://twitter.com/yourhandle  
-- Portfolio Website: https://yourwebsite.com
+- Facebook: https://www.facebook.com/Ronzziiie
+- Discord: 1220305407940231199 
+- Portfolio Website: https://herbstoner0-ronarq.github.io/
 - Gdevelop:
 - Itch:
 ---
