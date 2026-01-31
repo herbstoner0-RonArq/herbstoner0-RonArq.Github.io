@@ -1,83 +1,49 @@
-# Your Name – Portfolio
+# Ronie Arquio – Portfolio
 ### Frontend Developer | Designer | Software Engineer
 
-Welcome to my portfolio! Below are some of the projects I’ve worked on, including descriptions, technologies used, and links to live demos and source code.
+Welcome to my portfolio! Below are some of the projects I’ve worked on, My GDEVELOP platformer game, I also post a gaming content in Youtube.
 
 ---
 
-## 📁 Project One – Project Title
+## My Youtube channel – VideoContent
 
 ![Project One Screenshot](images/project1.png)
 
-**Description:**  
-Brief explanation of what this project does and the problem it solves.
+**My first few videos:**  
+My first few videos were gaming content, i might also do vlogs and other contents!!
 
-**Tech Stack:**  
-- HTML  
-- CSS  
-- JavaScript  
 
-**Features:**  
-- Feature one  
-- Feature two  
-- Feature three  
-
-🔗 **Live Demo:** https://your-demo-link.com  
-📂 **Source Code:** https://github.com/yourusername/project-one
+🔗 **Here's the link on one of my videos ** https://your-demo-link.com  
+📂 **Here my YTchannel:** https://github.com/yourusername/project-one
 
 ---
 
-## 📁 Project Two – Project Title
+##
+ – My GDEVELOP game
 
 ![Project Two Screenshot](images/project2.png)
 
-**Description:**  
-Brief explanation of what this project does and the problem it solves.
-
-**Tech Stack:**  
-- React  
-- CSS  
-- API  
+**Here's my game:**  
+My game is a platformer game, it's one of my few games i did(it was for our project lol). 
+The game is about a Cucumber named coco and he Jumps lol, collect coins and avoid the enemy,
+Thats pretty much it 
 
 **Features:**  
-- Feature one  
-- Feature two  
-- Feature three  
+- Platformer 
+- Dodge the enemy!
+- Collect all coins
 
-🔗 **Live Demo:** https://your-demo-link.com  
-📂 **Source Code:** https://github.com/yourusername/project-two
+🔗 **Check it out here!:** https://your-demo-link.com  
+📂 **I post my games on itch:** https://github.com/yourusername/project-two
 
----
 
-## 📁 Project Three – Project Title
+## 🌐 Connect With Me/ Feel free to give me feedback on my socials :>>
 
-![Project Three Screenshot](images/project3.png)
-
-**Description:**  
-Brief explanation of what this project does and the problem it solves.
-
-**Tech Stack:**  
-- Node.js  
-- Express  
-- MongoDB  
-
-**Features:**  
-- Feature one  
-- Feature two  
-- Feature three  
-
-🔗 **Live Demo:** https://your-demo-link.com  
-📂 **Source Code:** https://github.com/yourusername/project-three
-
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourname 
-- Twitter/X: https://twitter.com/yourhandle  
+- Facebook: https://github.com/yourusername  
+- Discord: https://twitter.com/yourhandle  
 - Portfolio Website: https://yourwebsite.com
-
+- Gdevelop:
+- Itch:
 ---
 
 ### 🔥 Optional Badge Style Socials
