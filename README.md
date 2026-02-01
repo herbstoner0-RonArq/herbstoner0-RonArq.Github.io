@@ -8,11 +8,11 @@ Welcome to my portfolio! Below are some of the projects I have worked on, My GDE
 ## My Youtube channel – VideoContent
 
 **My first few videos:**  
-I post short cozy guitar melodies. 
+I post gaming content in Youtube.
 
 
-🔗 **Here's the link to one of my videos ** https://www.youtube.com/shorts/OMLhg8fZlkc
-📂 **Here my YTchannel:** https://www.youtube.com/@Arcx-n5i
+
+📂 **You can check me out here:** https://www.youtube.com/@Arcx-n5i
 
 ---
 
